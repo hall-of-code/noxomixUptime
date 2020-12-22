@@ -4,6 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - Name: Noxomix
+    url: HTTPS://noxomix.de
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
